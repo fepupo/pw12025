@@ -1,0 +1,17 @@
+@font-face {
+  font-family: 'Trajan Pro';
+  src: url('../font/trajanpro_bold.otf');
+}
+
+@font-face {
+  font-family: 'Papyrus-02';
+  src: url('../font/Papyrus-02.otf');
+}
+
+p{
+    font-family: 'Trajan Pro';
+}
+
+.papyrus{
+    font-family: 'Papyrus-02';
+}
